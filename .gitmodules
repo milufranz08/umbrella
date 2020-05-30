@@ -1,0 +1,6 @@
+[submodule "ui"]
+	path = ui
+	url = git@github.com:milufranz08/umbrella-ui.git
+[submodule "api"]
+	path = api
+	url = git@github.com:milufranz08/umbrella-api.git
